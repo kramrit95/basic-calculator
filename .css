@@ -1,0 +1,22 @@
+
+
+/*Created by amrit*/
+body {
+    background-color:blueviolet;
+}
+#cal1,#cal2{
+    background-color:5px 5px 5px #ff560f;
+    width:80px;
+    height:40px;
+    font-size:40pt;
+    color:red;
+    text-align:center;
+    box-shadow:5px 2px 2px #abcdac;
+}
+button{
+    width:80px;
+    height:50px;
+    text-size:50px;
+    font-weight:bolder;
+    box-shadow:2px 2px 2px #abcafc;
+}
